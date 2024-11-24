@@ -4,7 +4,7 @@ A mini-project exploring bit trees (a form of binary tree) and their use in tran
 
 **Authors**
 
-* Your name here
+* Nicole Moreno Gonzalez.
 * Samuel A. Rebelsky (starter code)
 
 **Acknowledgements**
@@ -19,4 +19,4 @@ _Please insert instructions here._
 
 ---
 
-This code may be found at <https://github.com/USERNAME/mp-bit-trees-maven>. The original code may be found at <https://github.com/Grinnell-CSC207/mp-bit-trees-maven>.
+This code may be found at <https://github.com/morenoni/mp-bit-trees-maven.git>. The original code may be found at <https://github.com/Grinnell-CSC207/mp-bit-trees-maven>.

@@ -7,7 +7,7 @@ import java.io.PrintWriter;
  * Trees intended to be used in storing mappings between fixed-length 
  * sequences of bits and corresponding values.
  *
- * @author Your Name Here
+ * @author Nicole Moreno Gonzalez.
  */
 public class BitTree {
   // +--------+------------------------------------------------------

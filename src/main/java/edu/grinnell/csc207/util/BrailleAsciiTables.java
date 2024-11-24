@@ -7,7 +7,7 @@ import java.io.IOException;
 /**
  *
  *
- * @author Your Name Here
+ * @author Nicole Moreno Gonzalez.
  * @author Samuel A. Rebelsky
  */
 public class BrailleAsciiTables {
