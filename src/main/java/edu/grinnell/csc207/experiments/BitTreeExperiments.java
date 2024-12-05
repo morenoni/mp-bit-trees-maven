@@ -1,11 +1,11 @@
 package edu.grinnell.csc207.experiments;
 
-import edu.grinnell.csc207.util.BitTree;
-
 import java.io.ByteArrayInputStream;
-import java.io.InputStream;
 import java.io.IOException;
+import java.io.InputStream;
 import java.io.PrintWriter;
+
+import edu.grinnell.csc207.util.BitTree;
 
 /**
  * Some experiments with Bit Trees.
@@ -21,7 +21,7 @@ public class BitTreeExperiments {
   /**
    * Some of the conversion from braille to ASCII.
    */
-  static final String b2a =
+  static final String B2A =
       """
       100000,A
       110000,B
@@ -141,7 +141,7 @@ public class BitTreeExperiments {
     pen.println("Experiment 02");
     pen.println("-------------");
     BitTree b2aTree = new BitTree(6);
-    InputStream b2aStream = new ByteArrayInputStream(b2a.getBytes());
+    InputStream b2aStream = new ByteArrayInputStream(B2A.getBytes());
     b2aTree.load(b2aStream);
     try {
       b2aStream.close();
@@ -174,7 +174,7 @@ public class BitTreeExperiments {
 
     experiment01(pen);
     experiment02(pen);
-    
+
     pen.close();
   } // main(String[])
 
