@@ -19,7 +19,7 @@ In the terminal type:
 
 Now, type: 
 
-* ba <target> <source>
+* ba (target) (source)
 
 Description:
 
